@@ -1,0 +1,91 @@
+.tags{
+    background: seagreen;
+}
+
+.posts {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+
+}
+
+.posts_li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.posts li {
+    list-style: none;
+
+
+}
+
+body {
+    background: darkslategrey;
+}
+
+.posts a {
+    text-decoration: none;
+    color: black;
+}
+
+.homePage {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.aboutUs {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px ;
+}
+
+.textarea {
+    background-color: seagreen;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.post_push {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 100px auto;
+
+}
+.post_push h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.postPush_input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: seagreen;
+
+}
+
+.post_push_one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
